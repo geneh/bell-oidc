@@ -2,7 +2,7 @@
   "name": "bell-oidc",
   "description": "Third-party login plugin for hapi",
   "version": "7.6.1",
-  "repository": "git://github.com/hapijs/bell",
+  "repository": "git://github.com/geneh/bell-oidc",
   "main": "lib/index.js",
   "keywords": [
     "hapi",
