@@ -1,3 +1,5 @@
+Note: This fork's purpose is to accomodate Open ID Connect token returned by Microsoft Azure Active Directory in Obtain Token step.
+
 # **bell**
 
 Third-party authentication plugin for [hapi](https://github.com/hapijs/hapi).
